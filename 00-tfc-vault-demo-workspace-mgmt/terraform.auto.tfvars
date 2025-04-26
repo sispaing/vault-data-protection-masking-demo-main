@@ -10,7 +10,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "02-tfc-create-hcp-vault-cluster"
@@ -28,7 +28,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "03-tfc-create-dynamic-provider-credential-vault"
@@ -46,7 +46,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "04-tfc-create-vault-aws-secret-dynamic-role"
@@ -64,7 +64,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "05-tfc-create-vpc-subnet-igw-ngw"
@@ -82,7 +82,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "06-tfc-create-hvn-vpc-peering"
@@ -100,7 +100,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "07-tfc-create-vault-aws-auth-backend"
@@ -118,7 +118,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "08-tfc-create-vault-transit-engine"
