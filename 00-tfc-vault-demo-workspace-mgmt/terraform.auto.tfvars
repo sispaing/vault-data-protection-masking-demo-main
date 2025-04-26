@@ -136,7 +136,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "09-tfc-create-vault-transform-ccn"
@@ -154,7 +154,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "10-tfc-create-vault-transform-ssn"
@@ -172,7 +172,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "11-tfc-create-rds-ec2-python-instance"
@@ -190,7 +190,7 @@ vcs_workspace_info = [ {
     global_remote_state = false
     remote_state_consumer_ids = []
     vcs_repo = {
-      identifier = "kyinaing/vault-data-protection-masking-demo"
+      identifier = "sispaing/vault-data-protection-masking-demo"
       branch = "main"
     }
     working_directory = "12-tfc-create-vault-database-secret-mysql"
