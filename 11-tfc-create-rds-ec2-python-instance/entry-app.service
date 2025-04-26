@@ -1,0 +1,14 @@
+[Unit]
+Description=Python Web App
+After=network.target
+
+[Service]
+Type = simple
+ExecStart= python /opt/app/app.py
+Restart = on-failure # Restart when there are errors
+SyslogIdentifier = <Name of logs for the service>
+RestartSec = 5
+TimeoutStartSec = infinity
+
+[Install]
+WantedBy=multi-user.target
